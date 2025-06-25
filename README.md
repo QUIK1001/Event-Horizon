@@ -1,6 +1,5 @@
-Event Horizon
-console OS in python.
-functions:
+Event Horizon-console OS in python.
+Functions:
 calc;
 echo;
 ASCCI-arts;
