@@ -1,0 +1,13 @@
+Event Horizon
+console OS in python.
+functions:
+calc;
+echo;
+ASCCI-arts;
+OS info;
+shutdown;
+shell (beta).
+
+by quik (12 years)
+contact: belov0507artem@gmail.com
+project is alive 🙂
