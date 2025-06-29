@@ -7,6 +7,5 @@ OS info;
 shutdown;
 shell (beta).
 
-by quik (12 years)
+by quik
 contact: belov0507artem@gmail.com
-project is alive 🙂
